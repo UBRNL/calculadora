@@ -12,6 +12,7 @@ body {
     background: #edf1f4;
 }
 .calculadora {
+    background-color: #f3e9e9;
     position: relative;
     width: 350px;
     padding: 20px;
